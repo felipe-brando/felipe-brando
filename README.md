@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @felipe-brando
 - 🌱 I’m currently learning REACT
+- 📬 How to reach me: f.brandotalero@gmail.com 
 
 
 <!---
