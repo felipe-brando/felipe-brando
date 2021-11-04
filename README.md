@@ -1,5 +1,7 @@
 - 👋 Hi, I’m @felipe-brando
-- 🌱 I’m currently learning REACT
+- 👦 All about me: <a href="https://felipebrando.fr/" target="_blank">felipebrando.fr</a>
+- ⚛️ Specialized in ReactJs
+- 🌱 I’m currently playing with Wordpress
 - 📬 How to reach me: f.brandotalero@gmail.com 
 
 
